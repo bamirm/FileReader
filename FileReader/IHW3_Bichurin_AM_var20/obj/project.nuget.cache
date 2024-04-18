@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "keM/iczJF56UODK+nL8RNeD8RmLB0iI+GQxpz262RZNEZzqqs0pVzH5Zjbv6/CDBmS6revlbdWx3uv4o5bR4GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79869\\source\\repos\\IHW3_Bichurin_AM_var20\\IHW3_Bichurin_AM_var20\\IHW3_Bichurin_AM_var20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79869\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\79869\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

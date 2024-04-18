@@ -1,0 +1,11 @@
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\bin\Debug\net6.0\WifiParks.deps.json
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\bin\Debug\net6.0\WifiParks.dll
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\bin\Debug\net6.0\WifiParks.pdb
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.AssemblyInfoInputs.cache
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.AssemblyInfo.cs
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.csproj.CoreCompileInputs.cache
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.dll
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\refint\WifiParks.dll
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\WifiParks.pdb
+C:\Users\79869\source\repos\IHW3_Bichurin_AM_var20\WifiParks\obj\Debug\net6.0\ref\WifiParks.dll
